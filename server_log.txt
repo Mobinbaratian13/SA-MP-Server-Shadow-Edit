@@ -1,0 +1,150 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:56:24] Error: Your password must be changed from the default password, please change it.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:02:44] Error: Your password must be changed from the default password, please change it.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:03:01] password = ""  (string)
+[12:03:01] plugins = ""  (string)
+[12:03:01] 
+[12:03:01] Server Plugins
+[12:03:01] --------------
+[12:03:01]  Loaded 0 plugins.
+
+[12:03:01] I couldn't load any gamemode scripts. Please verify your server.cfg
+[12:03:01] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:03:19] password = ""  (string)
+[12:03:19] plugins = ""  (string)
+[12:03:19] 
+[12:03:19] Server Plugins
+[12:03:19] --------------
+[12:03:19]  Loaded 0 plugins.
+
+[12:03:19] I couldn't load any gamemode scripts. Please verify your server.cfg
+[12:03:19] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:21:17] password = ""  (string)
+[12:21:17] plugins = ""  (string)
+[12:21:17] 
+[12:21:17] Server Plugins
+[12:21:17] --------------
+[12:21:17]  Loaded 0 plugins.
+
+[12:21:17] 
+[12:21:17] Filterscripts
+[12:21:17] ---------------
+[12:21:17]   Loading filterscript 'skinchanger.amx'...
+[12:21:17] 
+--Admin Player Skin Changer Loaded
+
+[12:21:17]   Loading filterscript 'vspawner.amx'...
+[12:21:17] 
+--Admin Vehicle Spawner Loaded
+
+[12:21:17]   Loaded 2 filterscripts.
+
+[12:21:17] Number of vehicle models: 0
+Console input: varlist
+[12:21:32] Console Variables:
+[12:21:32]   ackslimit	= 3000  (int)
+[12:21:32]   announce	= 0  (bool)
+[12:21:32]   bind		= ""  (string) (read-only)
+[12:21:32]   chatlogging	= 0  (int)
+[12:21:32]   conncookies	= 1  (int)
+[12:21:32]   connseedtime	= 300000  (int)
+[12:21:32]   cookielogging	= 1  (int)
+[12:21:32]   db_log_queries	= 0  (int)
+[12:21:32]   db_logging	= 0  (int)
+[12:21:32]   filterscripts	= "skinchanger"  (string) (read-only)
+[12:21:32]   gamemode0	= "empty"  (string)
+[12:21:32]   gamemode1	= ""  (string)
+[12:21:32]   gamemode10	= ""  (string)
+[12:21:32]   gamemode11	= ""  (string)
+[12:21:32]   gamemode12	= ""  (string)
+[12:21:32]   gamemode13	= ""  (string)
+[12:21:32]   gamemode14	= ""  (string)
+[12:21:32]   gamemode15	= ""  (string)
+[12:21:32]   gamemode2	= ""  (string)
+[12:21:32]   gamemode3	= ""  (string)
+[12:21:32]   gamemode4	= ""  (string)
+[12:21:32]   gamemode5	= ""  (string)
+[12:21:32]   gamemode6	= ""  (string)
+[12:21:32]   gamemode7	= ""  (string)
+[12:21:32]   gamemode8	= ""  (string)
+[12:21:32]   gamemode9	= ""  (string)
+[12:21:32]   gamemodetext	= "Unknown"  (string)
+[12:21:32]   gravity	= "0.008"  (string)
+[12:21:32]   hostname	= "SA-MP Server | Scripting"  (string)
+[12:21:32]   incar_rate	= 50  (int) (read-only)
+[12:21:32]   lagcomp	= "On"  (string) (read-only) (rule)
+[12:21:32]   lagcompmode	= 1  (int) (read-only)
+[12:21:32]   language	= "English"  (string)
+[12:21:32]   lanmode	= 1  (bool)
+[12:21:32]   logqueries	= 0  (bool)
+[12:21:32]   logtimeformat	= "[%H:%M:%S]"  (string) (read-only)
+[12:21:32]   mapname	= "San Andreas"  (string) (rule)
+[12:21:32]   maxnpc	= 0  (int)
+[12:21:32]   maxplayers	= 200  (int) (read-only)
+[12:21:32]   messageholelimit	= 3000  (int)
+[12:21:32]   messageslimit	= 500  (int)
+[12:21:32]   minconnectiontime	= 0  (int)
+[12:21:32]   myriad	= 0  (bool)
+[12:21:32]   nosign	= ""  (string) (read-only)
+[12:21:32]   onfoot_rate	= 50  (int) (read-only)
+[12:21:32]   password	= ""  (string)
+[12:21:32]   playertimeout	= 10000  (int)
+[12:21:32]   plugins	= ""  (string) (read-only)
+[12:21:32]   port		= 7777  (int) (read-only)
+[12:21:32]   query		= 1  (bool)
+[12:21:32]   rcon		= 1  (bool)
+[12:21:32]   rcon_password	= "password"  (string)
+[12:21:32]   sleep		= 5  (int)
+[12:21:32]   stream_distance	= 300.000000  (float)
+[12:21:32]   stream_rate	= 1000  (int)
+[12:21:32]   timestamp	= 1  (bool)
+[12:21:32]   version	= "0.3.7-R2"  (string) (read-only) (rule)
+[12:21:32]   weapon_rate	= 50  (int) (read-only)
+[12:21:32]   weather	= "10"  (string) (rule)
+[12:21:32]   weburl	= "www.sa-mp.com"  (string) (rule)
+[12:21:32]   worldtime	= "12:00"  (string) (rule)
+[12:21:32] 

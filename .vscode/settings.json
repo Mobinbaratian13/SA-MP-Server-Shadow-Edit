@@ -1,0 +1,13 @@
+{
+    "pawn.compilerPath": "D:\\Program\\SA-MP Servers\\Native Server\\pawnc",
+    "task.saveBeforeRun": "always",
+    //"files.autoSave":"afterDelay",
+    //"files.autoSaveDelay": 1,
+    "files.encoding": "windows1252",
+    "pawn.compileOptions": [
+        "-d2",
+        "-O1",
+        "-(",
+        "-;"
+    ],
+}
